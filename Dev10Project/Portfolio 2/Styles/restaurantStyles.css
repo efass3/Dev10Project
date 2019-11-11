@@ -1,0 +1,28 @@
+/*
+Creator:Eric Fass
+Date Created: 11/5/19
+Date Last modified:
+*/
+
+header, footer {
+  background-color: #b30000;
+  color: #fef9ff;
+  height: 100px;
+  text-align: center;
+  padding: 40px 10px 20px 10px;
+}
+h1 {
+  font-family: 'Pacifico', cursive;
+}
+nav a {
+  text-decoration: none;
+}
+nav a:hover {
+  font-weight: bold;
+}
+nav a:visited {
+  color: #993399;
+}
+nav a:active {
+  color: #0000ff;
+}

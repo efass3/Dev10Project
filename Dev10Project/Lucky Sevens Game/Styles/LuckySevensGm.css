@@ -1,0 +1,24 @@
+
+header {
+  font-family: sans-serif;
+  font-family: cursive;
+  font-size: 1.1em;
+}
+body {
+  text-align: center;
+  display: block;
+  float: center;
+}
+
+caption {
+  font-size: 1.5em;
+}
+
+table, td {
+  margin: auto;
+  text-align: left;
+  border:2px solid #0d1f2d;
+  border-collapse: collapse;
+}
+table tr:nth-child(even) {
+  background-color: #e0e0d1;
